@@ -1,0 +1,12 @@
+[
+  { "id": 0, "title": "From Nand to Tetris", "authorId": 0, "status": "available" },
+  { "id": 1, "title": "The Pragmatic Programmer", "authorId": 1, "status": "borrowed" },
+  { "id": 2, "title": "Clean Code", "authorId": 2, "status": "available" },
+  { "id": 3, "title": "Design Patterns", "authorId": 3, "status": "borrowed" },
+  { "id": 4, "title": "Introduction to Algorithms", "authorId": 4, "status": "available" },
+  { "id": 5, "title": "The Art of Computer Programming", "authorId": 5, "status": "available" },
+  { "id": 6, "title": "Structure and Interpretation", "authorId": 6, "status": "borrowed" },
+  { "id": 7, "title": "Compilers: Principles", "authorId": 7, "status": "available" },
+  { "id": 8, "title": "Operating System Concepts", "authorId": 8, "status": "available" },
+  { "id": 9, "title": "Computer Networks", "authorId": 9, "status": "borrowed" }
+]
