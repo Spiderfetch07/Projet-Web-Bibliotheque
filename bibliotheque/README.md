@@ -1,11 +1,5 @@
-# Projet Bibliothèque — Programmation Web EPITA 2025-2026
+# Projet Bibliothèque — Programmation Web EPITA 
 
-## Auteurs
-
-- COQUELLE Maëlie — maelie.coquelle@epita.fr
-- BIDELOGNE Lorélyne — lorelyne.bidelogne@epita.fr
-
----
 
 ## Présentation
 
